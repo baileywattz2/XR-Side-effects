@@ -1,0 +1,29 @@
+"drugs":  [
+    {
+        "id": 0,
+        "brand name": "Abilify",
+        "generic name":"Aripiprazole",
+        "used for":"Aripiprazole is used to treat certain mental/mood disorders (such as bipolar disorder, schizophrenia, Tourette's syndrome, and irritability associated with autistic disorder)." ,
+        "descrition": "It may also be used in combination with other medication to treat depression. Aripiprazole is known as an antipsychotic drug (atypical type). It works by helping to restore the balance of certain natural chemicals in the brain (neurotransmitters). This medication can decrease hallucinations and improve your concentration. It helps you to think more clearly and positively about yourself, feel less nervous, and take a more active part in everyday life. Aripiprazole can treat severe mood swings and decrease how often mood swings occur.",
+        "side effects": "Dizziness, lightheadedness, drowsiness, nausea, vomiting, tiredness, excess saliva/drooling, blurred vision, weight gain, constipation, headache, and trouble sleeping may occur. If any of these effects persist or worsen, tell your doctor or pharmacist promptly.",
+        "classification":"Not a controlled substance",
+        "image": {
+           "abilify": https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.drugwatch.com%2Fabilify%2F&psig=AOvVaw37h_nvDUw-p8n2Y_vzlDk-&ust=1635997812052000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMizoPyk-_MCFQAAAAAdAAAAABAD
+        }
+
+    },
+    {
+        "id": 1,
+        "brand name":"Actos",
+        "generic name":"PIOGLITAZONE",
+        "used for":"Diabetes and to control blood sugar",
+        "descrition": "Pioglitazone is a diabetes drug (thiazolidinedione-type, also called "glitazones") used along with a proper diet and exercise program to control high blood sugar in patients with type 2 diabetes. It works by helping to restore your body's proper response to insulin, thereby lowering your blood sugar.Controlling high blood sugar helps prevent kidney damage, blindness, nerve problems, loss of limbs, and sexual function problems.",
+        "side effects": "Sore throat, muscle pain, weight gain, or tooth problems may occur. If any of these effects persist or worsen, notify your doctor or pharmacist promptly.",
+        "classification":"Not a controlled substance",
+        "image": {
+           "actos": https://www.google.com/url?sa=i&url=https%3A%2F%2Ftopclassactions.com%2Flawsuit-settlements%2Fprescription%2F2338-fda-approves-generic-actos-despite-mounting-lawsuits-over-bladder-cancer%2F&psig=AOvVaw1jhgvB4N9_Ke0OgOeCNGmS&ust=1635998501623000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDz-cOn-_MCFQAAAAAdAAAAABAD
+    },
+    
+
+
+]
