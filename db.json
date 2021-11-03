@@ -1,0 +1,132 @@
+{ "drugs":  [
+    {
+        "id": 0,
+        "brandName": "Abilify",
+        "genericName":"Aripiprazole",
+        "usedFor":"Aripiprazole is used to treat certain mental/mood disorders (such as bipolar disorder, schizophrenia, Tourette's syndrome, and irritability associated with autistic disorder)." ,
+        "descrition": "It may also be used in combination with other medication to treat depression. Aripiprazole is known as an antipsychotic drug (atypical type). It works by helping to restore the balance of certain natural chemicals in the brain (neurotransmitters). This medication can decrease hallucinations and improve your concentration. It helps you to think more clearly and positively about yourself, feel less nervous, and take a more active part in everyday life. Aripiprazole can treat severe mood swings and decrease how often mood swings occur.",
+        "sideEffects": "Dizziness, lightheadedness, drowsiness, nausea, vomiting, tiredness, excess saliva/drooling, blurred vision, weight gain, constipation, headache, and trouble sleeping may occur. If any of these effects persist or worsen, tell your doctor or pharmacist promptly.",
+        "classification":"Not a controlled substance",
+        "image": {
+           "abilify": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.drugwatch.com%2Fabilify%2F&psig=AOvVaw37h_nvDUw-p8n2Y_vzlDk-&ust=1635997812052000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMizoPyk-_MCFQAAAAAdAAAAABAD"
+        }
+
+    },
+    {
+        "id": 1,
+        "brandName":"Actos",
+        "genericName":"PIOGLITAZONE",
+        "usedFor":"Actos is used to treat diabetes and to control blood sugar",
+        "descrition": "Pioglitazone is a diabetes drug (thiazolidinedione-type, also called glitazones) used along with a proper diet and exercise program to control high blood sugar in patients with type 2 diabetes. It works by helping to restore your body's proper response to insulin, thereby lowering your blood sugar.Controlling high blood sugar helps prevent kidney damage, blindness, nerve problems, loss of limbs, and sexual function problems.",
+        "sideEffects": "Sore throat, muscle pain, weight gain, or tooth problems may occur. If any of these effects persist or worsen, notify your doctor or pharmacist promptly.",
+        "classification":"Not a controlled substance",
+        "image": {
+           "actos": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftopclassactions.com%2Flawsuit-settlements%2Fprescription%2F2338-fda-approves-generic-actos-despite-mounting-lawsuits-over-bladder-cancer%2F&psig=AOvVaw1jhgvB4N9_Ke0OgOeCNGmS&ust=1635998501623000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDz-cOn-_MCFQAAAAAdAAAAABAD"
+        }
+    },
+    {
+        "id": 2,
+        "brandName": "Adderall XR " ,
+        "genericName": "DEXTROAMPHETAMINE-AMPHETAMINE",
+        "usedFor": "Adderall XR is used to treat attention deficit hyperactivity disorder - ADHD",
+        "descrition": "It works by changing the amounts of certain natural substances in the brain. Amphetamine/dextroamphetamine belongs to a class of drugs known as stimulants. It can help increase your ability to pay attention, stay focused on an activity, and control behavior problems. It may also help you to organize your tasks and improve listening skills.",
+        "sideEffects": "Loss of appetite, weight loss, dry mouth, stomach upset/pain, nausea/vomiting, dizziness, headache, diarrhea, fever, nervousness, and trouble sleeping may occur. If any of these effects persist or worsen, tell your doctor promptly.",
+        "classification":"Schedule II controlled substance",
+        "image": {
+           "adderall xr": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.additudemag.com%2Fmedication%2Fadderall-xr%2F&psig=AOvVaw3GD-E-AiGtDESqZHu58LUs&ust=1635998986612000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNjZoKyp-_MCFQAAAAAdAAAAABAD"
+        }
+    },
+    {
+        "id": 3,
+        "brandName": "Allopurinol" ,
+        "genericName": "ZYLOPRIM",
+        "usedFor": "Allopurinol is used to treat gout and certain types of kidney stones.",
+        "descrition": "It is also used to prevent increased uric acid levels in patients receiving cancer chemotherapy. These patients can have increased uric acid levels due to release of uric acid from the dying cancer cells. Allopurinol works by reducing the amount of uric acid made by the body. Increased uric acid levels can cause gout and kidney problems.",
+        "sideEffects": "Stomach upset, nausea, diarrhea, or drowsiness may occur. If any of these effects persist or worsen, tell your doctor or pharmacist promptly.",
+        "classification":"Not a controlled substance",
+        "image": {
+           "allopurinol": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.webmd.com%2Fdrugs%2F2%2Fdrug-8610%2Fallopurinol-oral%2Fdetails&psig=AOvVaw1GqR0rMhftv9wOj6wwEI-5&ust=1635999272219000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPCl8K-q-_MCFQAAAAAdAAAAABAD"
+        }
+    },
+    {
+        "id": 4,
+        "brandName": "Ambien" ,
+        "genericName": "ZOLPIDEM",
+        "usedFor": "Zolpidem is used to treat a certain sleep problem (insomnia) in adults.",
+        "descrition": "If you have trouble falling asleep, it helps you fall asleep faster, so you can get a better night's rest. Zolpidem belongs to a class of drugs called sedative-hypnotics. It acts on your brain to produce a calming effect.",
+        "sideEffects": "Dizziness may occur. If this effect persists or worsens, tell your doctor or pharmacist promptly.",
+        "classification":"Federally controlled substance",
+        "image": {
+           "ambien":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.ambien.com%2Fambien-cr&psig=AOvVaw2Mp8_YGVhakwDggWlIJO1c&ust=1635999567161000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJCBsLur-_MCFQAAAAAdAAAAABAD"
+        }
+    },
+    {
+        "id": 5,
+        "brandName": "Amitriptyline HCL" ,
+        "genericName": "ELAVIL",
+        "usedFor": "Amitriptyline HCL is used to treat mental/mood problems such as depression.",
+        "descrition": " It may help improve mood and feelings of well-being, relieve anxiety and tension, help you sleep better, and increase your energy level. This medication belongs to a class of medications called tricyclic antidepressants. It works by affecting the balance of certain natural chemicals (neurotransmitters such as serotonin) in the brain.",
+        "sideEffects": "Drowsiness, dizziness, dry mouth, blurred vision, constipation, weight gain, or trouble urinating may occur. If any of these effects persist or worsen, notify your doctor or pharmacist promptly.",
+        "classification":"Not a controlled substance",
+        "image": {
+           "Amitriptyline HCL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.webmd.com%2Fdrugs%2F2%2Fdrug-8611%2Famitriptyline-oral%2Fdetails&psig=AOvVaw3CoJlN8GtG3e3pHHj9FAS3&ust=1635999748421000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCICi-pOs-_MCFQAAAAAdAAAAABAD"
+        }
+    },
+    {
+        "id": 6,
+        "brandName": "Amoxicillin" ,
+        "genericName": "MOXATAG",
+        "usedFor": "Amoxicillin is used to treat a wide variety of bacterial infections.",
+        "descrition": "This medication is a penicillin-type antibiotic. It works by stopping the growth of bacteria.This antibiotic treats only bacterial infections.",
+        "sideEffects": "Nausea, vomiting, or diarrhea may occur. If any of these effects persist or worsen, tell your doctor or pharmacist promptly.",
+        "classification":"Not a controlled substance",
+        "image": {
+           "amoxicillin": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.goodrx.com%2Famoxicillin%2Fwhat-is&psig=AOvVaw18RkdxepUiNgyGg0M3kpq6&ust=1635999884117000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKi7ydKs-_MCFQAAAAAdAAAAABAD"
+        }
+    },
+    {
+        "id": 7,
+        "brandName": "Atenolol" ,
+        "genericName": "TENORMIN",
+        "usedFor": "Atenolol is used with or without other medications to treat high blood pressure (hypertension).",
+        "descrition": "Lowering high blood pressure helps prevent strokes, heart attacks, and kidney problems. This medication is also used to treat chest pain (angina) and to improve survival after a heart attack.Atenolol belongs to a class of drugs known as beta blockers.",
+        "sideEffects": "Dizziness, lightheadedness, tiredness, and nausea may occur. If any of these effects persist or worsen, tell your doctor or pharmacist promptly.",
+        "classification":"Not a controlled substance",
+        "image": {
+           "atenolol":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.webmd.com%2Fdrugs%2F2%2Fdrug-11035%2Fatenolol-oral%2Fdetails&psig=AOvVaw0imJBRN1CsVqq8wVoNiLzl&ust=1636000095364000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDqobet-_MCFQAAAAAdAAAAABAD"
+        }
+    },
+    {
+        "id": 8,
+        "brandName": "Ativan" ,
+        "genericName": "LORAZEPAM",
+        "usedFor": "This medication is used to treat anxiety. ",
+        "descrition": " Lorazepam belongs to a class of drugs known as benzodiazepines which act on the brain and nerves (central nervous system) to produce a calming effect. This drug works by enhancing the effects of a certain natural chemical in the body (GABA).",
+        "sideEffects": "Drowsiness, dizziness, loss of coordination, headache, nausea, blurred vision, change in sexual interest/ability, constipation, heartburn, or change in appetite may occur. If any of these effects persist or worsen, tell your doctor or pharmacist promptly.",
+        "classification":"Federally controlled substance",
+        "image": {
+           "ativan":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.empr.com%2Fdrug%2Fativan%2F&psig=AOvVaw0ZIzD7solhLzgZ4u9dxlRA&ust=1636000310013000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJjTt52u-_MCFQAAAAAdAAAAABAD"
+        }
+    },
+    {
+        "id": 9,
+        "brandName": "Azithromycin" ,
+        "genericName": "ZITHROMAX",
+        "usedFor": "Azithromycin is used to treat a wide variety of bacterial infections.",
+        "descrition": "It is a macrolide-type antibiotic. It works by stopping the growth of bacteria.This medication will not work for viral infections (such as common cold, flu). Unnecessary use or misuse of any antibiotic can lead to its decreased",
+        "sideEffects": "Stomach upset, diarrhea/loose stools, nausea, vomiting, or abdominal pain may occur. If any of these effects persist or worsen, tell your doctor or pharmacist promptly.",
+        "classification":"Not a controlled substance",
+        "image": {
+           "Azithromycin": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.medscapestatic.com%2Fpi%2Ffeatures%2Fdrugdirectory%2Foctupdate%2F00205015.jpg&imgrefurl=https%3A%2F%2Fwww.webmd.com%2Fdrugs%2F2%2Fdrug-1527-3223%2Fazithromycin-oral%2Fazithromycin-250-500-mg-oral%2Fdetails&tbnid=uoouJBQimlgb1M&vet=12ahUKEwiUrpn3rvvzAhWEQkIHHWbXAvEQMygIegUIARCIAQ..i&docid=1g86wYxqIadAAM&w=288&h=216&q=Azithromycin&hl=en&ved=2ahUKEwiUrpn3rvvzAhWEQkIHHWbXAvEQMygIegUIARCIAQ"
+        }
+    },
+    {
+        
+    }
+    
+
+    
+
+
+]
+    }
